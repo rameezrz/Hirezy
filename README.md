@@ -81,5 +81,6 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 - [Microservice Diagram](https://drive.google.com/file/d/1nGp8_juwITkzmGvTr7UD2ze0VdExVGcI/view?usp=drive_link)
 - [API Documentation](https://documenter.getpostman.com/view/27651295/2s9YeHZAYE)
 - [Entity Relation Diagram](https://drive.google.com/file/d/1KFPdNmzRUR6mX3sZ8ohMQ3zMOggWiXNT/view?usp=drive_link)
+- [Module Documentation](https://rzeee.atlassian.net/wiki/spaces/~71202014c6c55ea82047d38f90997a47a9f050/pages/1474562/Module+Documentation)
 - [Third-Party Service Integration Documentation](https://rzeee.atlassian.net/wiki/spaces/SD/blog/2023/11/28/65809/Third-Party+Service+Integration+Documentation?atlOrigin=eyJpIjoiZWNmMDA0NDIyOTAzNDI4NDk3MjE3NTNhZjlkY2E2NzQiLCJwIjoiYyJ9)
 - [Timeline Documentation](https://rzeee.atlassian.net/wiki/spaces/SD/blog/2023/11/28/262177/Hirezy+-+Timeline+Documentation?atlOrigin=eyJpIjoiMTYwOWU0MDEyMTZhNGFlNmI2NDQzYzQyNTc5ODBmYjIiLCJwIjoiYyJ9)
