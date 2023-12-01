@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 ## Related Documentations
 
-- [Figma Design](https://www.figma.com/file/jYQT4TbH5ZFKQGFLxspJno/second-project?type=design&node-id=0%3A1&mode=design&t=bh6AESJsm3oO5wZu-1)
+- [Figma Design](https://www.figma.com/file/jYQT4TbH5ZFKQGFLxspJno/Hirezy?type=design&node-id=0%3A1&mode=design&t=tfeNVwnmxzSd53c2-1)
 - [Microservice Diagram](https://drive.google.com/file/d/1nGp8_juwITkzmGvTr7UD2ze0VdExVGcI/view?usp=drive_link)
 - [API Documentation](https://documenter.getpostman.com/view/27651295/2s9YeHZAYE)
 - [Entity Relation Diagram](https://drive.google.com/file/d/1KFPdNmzRUR6mX3sZ8ohMQ3zMOggWiXNT/view?usp=drive_link)
